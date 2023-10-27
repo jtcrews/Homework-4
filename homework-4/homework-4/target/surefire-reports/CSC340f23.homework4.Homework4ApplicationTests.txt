@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: CSC340f23.homework4.Homework4ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.654 s - in CSC340f23.homework4.Homework4ApplicationTests
